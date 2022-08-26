@@ -1,11 +1,88 @@
-# Hi guys, welcome to my great-little World!
-## Me chamo Rodrigo Santana, sou um Desenvolvedor Full-stack, com conhecimentos em Front-End e Back-End
+# Hi guys, welcome to my great-little :earth_americas: 
+## Me chamo Rodrigo, mas também pode me chamar de Aster :stuck_out_tongue_winking_eye:
 
-## My skills
+**Um pouco sobre mim:**
 
-### Front-End:
+   Desde os 10 anos de idade que me encontrei com a tecnologia, aprendi a fazer manutenção de hardware, formatação de computador sozinho, pesquisando na internet, e não seria diferente com a programação, desde então, uso a internet para aprender tudo o que preciso. Atualmente estou focado em **desenvolvimento web**, utilizando como linguagem principal o **JavaScript** , tanto no **Front-end** quanto no **Back-end**, a procura do meu **primeiro emprego** em algum dos dois seguimentos(curti bastante ambos :p).
 
-<img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" />
-<img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />
-<img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" />
-<img src="https://camo.githubusercontent.com/f192ffd36405314e0a22dc1c4b399168ed5ca85a20926f6df130558eca2870a6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34632f547970657363726970745f6c6f676f5f323032302e737667" />
+## My skills :computer:
+
+> **Front-End**:
+
+<div style="display: flex;">
+  
+<img width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                    
+<div/> 
+  
+<br/>
+  
+
+> **Back-End**:
+
+<div style="display: flex;">
+  
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
+
+<div/>
+  
+<br/>   
+  
+> **Estudando atualmente**:
+
+<div style="display: flex;">
+  
+
+<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />          
+  
+<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
+
+<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<div/>
+  
+<br/>
+
+> **Objetivo**
+               
+No momento, procuro meu primeiro emprego na área, me sinto pronto para o mercado de trabalho e gostaria muito de mostrar minha vontade, meu esforço e meu carinho por essa área e por esse trabalho, resolver problemas é minha paixão de anos, por quê não transformar isso no meu dia a dia? 😄
+              
+              
+> **Contato**
+  
+  Sente dificuldade com alguma tecnologia? Acha que posso te ajudar? Entra em contato que terei o maior prazer em ajudar!!  
+<div style="display: flex;">
+  
+<a href="https://www.linkedin.com/in/rodrigoaster/" target="_blank">
+<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /          
+<a/> 
+  
+<a href="https://www.linkedin.com/in/rodrigoaster/" target="_blank">
+<img width="90px" height="70px" src="https://i.ibb.co/wBrP3g6/images.png" />          
+<a/> 
+  
+
+<div/>
+  
+## Finalizando
+  
+Em um dia, pensei em uma frase que representava muito o que eu deveria fazer para alcançar meus objetivos, não sei se ela já foi dita por alguém, mas a frase era a seguinte: *Não tenha medo de errar, não tenha receio de pedir auxílio, não tenha preguiça de praticar e não pare de estudar.*
+  
+Agradeço a sua visita, espero que tenha gostado, dá uma olhada nos meus projetos, tudo o que aprendi e continuo aprendendo estão lá.
+  
+# Bye bye :wave:
+
+
+
+
