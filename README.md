@@ -54,6 +54,10 @@
   
 <br/>
 
+> **Status**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=radical)
+
 > **Objetivo**
                
 No momento, procuro meu primeiro emprego na área, me sinto pronto para o mercado de trabalho e gostaria muito de mostrar minha vontade, meu esforço e meu carinho por essa área e por esse trabalho, resolver problemas é minha paixão de anos, por quê não transformar isso no meu dia a dia? 😄
