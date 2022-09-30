@@ -72,13 +72,9 @@ No momento, procuro meu primeiro emprego na área, me sinto pronto para o mercad
   
 
 <div/>
-    
-Em um dia, pensei em uma frase que representava muito o que eu deveria fazer para alcançar meus objetivos, não sei se ela já foi dita por alguém, mas a frase era a seguinte: *Não tenha medo de errar, não tenha receio de pedir auxílio, não tenha preguiça de praticar e não pare de estudar.*
+   
+*Não tenha medo de errar, não tenha receio de pedir auxílio, não tenha preguiça de praticar e nunca pare de estudar.*
   
 Agradeço a sua visita, espero que tenha gostado, dá uma olhada nos meus projetos, tudo o que aprendi e continuo aprendendo estão lá.
   
 # Bye bye :wave:
-
-
-
-
