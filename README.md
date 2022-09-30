@@ -1,5 +1,4 @@
-# Hi guys, welcome to my great-little :earth_americas: 
-## Me chamo Rodrigo, mas também pode me chamar de Aster :stuck_out_tongue_winking_eye:
+# Hi guys :stuck_out_tongue_winking_eye:, my name is Rodrigo, but call me Aster.
 
 **Um pouco sobre mim:**
 
