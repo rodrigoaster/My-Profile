@@ -59,7 +59,7 @@ No momento, procuro meu primeiro emprego na área, me sinto pronto para o mercad
               
 > **Contato**
   
-  Sente dificuldade com alguma tecnologia? Acha que posso te ajudar? Entra em contato que terei o maior prazer em ajudar!!  
+  Sente dificuldade com alguma tecnologia? Entra em contato, terei o maior prazer em ajudar!
 <div style="display: flex;">
   
 <a href="https://www.linkedin.com/in/rodrigoaster/" target="_blank">
