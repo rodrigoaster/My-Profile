@@ -2,7 +2,7 @@
 
    Desde os 10 anos de idade que me encontrei com a tecnologia, aprendi a fazer manutenção de hardware, formatação de computador sozinho, pesquisando na internet, e não seria diferente com a programação, desde então, uso a internet para aprender tudo o que preciso. Atualmente estou focado em **desenvolvimento web**, utilizando como linguagem principal o **JavaScript** , tanto no **Front-end** quanto no **Back-end**, a procura do meu **primeiro emprego** em algum dos dois seguimentos(curti bastante ambos :p).
 
-## Skills :computer:
+## Skills:
 
 > **Front-End**:
 
