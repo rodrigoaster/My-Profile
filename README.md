@@ -33,19 +33,6 @@
 
 <div/>
   
-<br/>   
-  
-> **Estudando atualmente**:
-
-<div style="display: flex;">       
-  
-<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-          
-
-<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<div/>
-  
 <br/>
 
 > **Objetivo**
