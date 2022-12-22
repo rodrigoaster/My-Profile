@@ -1,48 +1,25 @@
-# Hi guys :wave:, call me Aster.
+## Hi :wave:, call me Aster.
 
-   Desde os 10 anos de idade que me encontrei com a tecnologia, aprendi a fazer manutenção de hardware, formatação de computador sozinho, pesquisando na internet, e não seria diferente com a programação, desde então, uso a internet para aprender tudo o que preciso. Atualmente estou focado em **desenvolvimento web**, utilizando como linguagem principal o **JavaScript** , tanto no **Front-end** quanto no **Back-end**, a procura do meu **primeiro emprego** em algum dos dois seguimentos(curti bastante ambos :p).
+# I am Software Engineer and technology enthusiast:
 
-## Skills:
+<ul>
+   <li>:pushpin: TypeScript | React | Node</li>
+   <li>:mag_right: Next | Nest</li>
+   <li>:office: 2023 Plans: My first job in the field.
+</ul>
 
-> **Front-End**:
+### Connect with me: <br/>
 
-<div style="display: flex;">
-  
-<img width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                    
-<div/> 
-  
+<div>
+<a href="https://instagram.com/rodrigaster" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@rodrigasterdev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodrigoaster" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <br/>
-  
-
-> **Back-End**:
-
-<div style="display: flex;">
-  
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          
-<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
-
-<div/>
-  
-<br/>
-
-> **Objetivo**
-               
-No momento, procuro meu primeiro emprego na área, me sinto pronto para o mercado de trabalho e gostaria muito de mostrar minha vontade, meu esforço e meu carinho por essa área e por esse trabalho, resolver problemas é minha paixão de anos, por quê não transformar isso no meu dia a dia? 😄
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=radical)
-                 
-*Não tenha medo de errar, não tenha receio de pedir auxílio, não tenha preguiça de praticar e nunca pare de estudar.*
-  
-Agradeço a sua visita, espero que tenha gostado, dá uma olhada nos meus projetos, tudo o que aprendi e continuo aprendendo estão lá.
-  
-# Bye :wave:
+<div>
+<a href="https://github.com/rodrigoaster">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
+</div>
