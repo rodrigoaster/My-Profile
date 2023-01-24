@@ -1,4 +1,4 @@
-## Hi :wave:, call me Aster.
+## Hi :wave:, call me Rod.
 
 # I am Software Engineer and technology enthusiast:
 
