@@ -1,6 +1,6 @@
 ## Hi :wave:, call me Rod.
 
-# I am Software Engineer and technology enthusiast:
+# I am Software Engineer and technology enthusiast
 
 <ul>
    <li>:pushpin: TypeScript | React | Node</li>
