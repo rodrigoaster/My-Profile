@@ -5,7 +5,7 @@
 <ul>
    <li>:pushpin: TypeScript | React | Node</li>
    <li>:mag_right: Next | Nest</li>
-   <li>:office: 2023 Plans: My first job in the field.
+   <li>:office: 2023 Plans: Become an expert in the entire TavaScript/JavaScript ecosystem.
 </ul>
 
 ### Connect with me: <br/>
