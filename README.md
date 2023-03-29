@@ -3,8 +3,8 @@
 # I am Software Engineer and technology enthusiast
 
 <ul>
-   <li>:pushpin: TypeScript | React | Node</li>
-   <li>:mag_right: Next | Nest</li>
+   <li>:pushpin: TypeScript | React | Node | Nest</li>
+   <li>:mag_right: Next</li>
    <li>:office: 2023 Plans: Become an expert in the entire TypeScript/JavaScript ecosystem.
 </ul>
 
