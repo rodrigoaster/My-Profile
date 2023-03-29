@@ -4,7 +4,7 @@
 
 <ul>
    <li>:pushpin: TypeScript | React | Node | Nest</li>
-   <li>:mag_right: Next</li>
+   <li>:mag_right: Next | Angular</li>
    <li>:office: 2023 Plans: Become an expert in the entire TypeScript/JavaScript ecosystem.
 </ul>
 
