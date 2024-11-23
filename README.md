@@ -20,8 +20,6 @@
    
 <div>
 <a href="https://github.com/rodrigoaster">
-<div align="center">
 <img width="450em" alt="Status Github Aster" src="https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&theme=dracula"/>
-</div>
 </div>
