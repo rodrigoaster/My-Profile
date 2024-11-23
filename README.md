@@ -1,4 +1,4 @@
-## Hi :wave:, call me Rod.
+## Hi, i'm Rodrigo - aka Aster 😀
 
 # I am Software Engineer and technology enthusiast
 
@@ -20,6 +20,8 @@
    
 <div>
 <a href="https://github.com/rodrigoaster">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
+<div align="center">
+<img width="450em" alt="Status Github Aster" src="https://github-readme-stats.vercel.app/api?username=rodrigoaster&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaster&layout=compact&theme=dracula"/>
+</div>
 </div>
